@@ -81,3 +81,7 @@ Student at THD, learning Rust and building small tools to improve my skills.
 
 ![Program running](Screenshot 2026-02-04 024801.png)
 
+## Download
+
+[Download Linux aarch64 Binary](textcraftrs-aarch64.zip)
+
