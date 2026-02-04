@@ -8,7 +8,6 @@
 - Saves cleaned output to `output_clean.txt`
 - Fast and efficient (written in Rust)
 
-  
 ## What the program does
 
 - Reads a text file line by line  
@@ -16,23 +15,21 @@
 - Trims leading and trailing spaces  
 - Writes the cleaned text into `output_clean.txt`
 
-
 ## Example
 
 **Before:**
 
-Hello     world
+Hello     world  
 This   is    a   test
 
 **After:**
 
-Hello world
+Hello world  
 This is a test
 
 ## Screenshot
 
 ![Program running](Screenshot 2026-02-04 024801.png)
-
 
 ## How to Use
 
@@ -49,6 +46,7 @@ The cleaned output will be saved as:
 ```
 output_clean.txt
 ```
+
 
 ## Download
 
