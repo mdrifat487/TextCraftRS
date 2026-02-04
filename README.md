@@ -7,12 +7,13 @@ I made this project mainly to improve my Rust skills and understand how command�
 It’s not meant to be a big framework or anything — just a practical tool I wrote myself.
 
 
+
 ---
 
 ## What the program does
 
 - Reads a text file line by line   
-- Removes extra spaces between words  
+- Removes extra spaces between words    
 - Trims leading and trailing spaces  
 - Writes the cleaned text into `output_clean.txt`
 
