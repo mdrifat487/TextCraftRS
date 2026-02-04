@@ -6,11 +6,12 @@ The goal of the program is simple: take an input text file, clean up extra space
 I made this project mainly to improve my Rust skills and understand how command‑line tools work.  
 It’s not meant to be a big framework or anything — just a practical tool I wrote myself.
 
+
 ---
 
 ## What the program does
 
-- Reads a text file line by line  
+- Reads a text file line by line   
 - Removes extra spaces between words  
 - Trims leading and trailing spaces  
 - Writes the cleaned text into `output_clean.txt`
