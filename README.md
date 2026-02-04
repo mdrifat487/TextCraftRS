@@ -59,7 +59,7 @@ This project helped me understand these concepts much better.
 
 ---
 
-## Future improvements
+## Future improvements   
 
 If I continue working on this, I might add:
 
