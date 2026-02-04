@@ -69,10 +69,11 @@ If I continue working on this, I might add:
 - More cleaning options  
 - Error handling improvements  
 
-For now, I’m happy with this version.
+For now, I’m happy with this version.  
 
 ---
 
+ 
 ## Author
 
 Md Rifat Hossain  
