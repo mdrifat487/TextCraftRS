@@ -23,7 +23,7 @@ jobs:
       run: cross build --target aarch64-unknown-linux-musl --release
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: textcraftrs-aarch64
         path: target/aarch64-unknown-linux-musl/release/*
