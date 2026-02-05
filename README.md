@@ -19,13 +19,16 @@
 
 **Before:**
 
-Hello     world  
-This   is    a   test
+```
+Before:
+Hello    world
+This    is    a test
 
-**After:**
-
-Hello world  
+After:
+Hello world
 This is a test
+```
+
 
 ## Screenshot
 
