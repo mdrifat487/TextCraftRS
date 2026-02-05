@@ -17,15 +17,14 @@
 
 ## Example
 
-**Before:**
+Before:
+Hello   world
+This   is     a test
 
-Hello     world  
-This   is    a   test
-
-**After:**
-
-Hello world  
+After:
+Hello world
 This is a test
+
 
 ## Screenshot
 
