@@ -17,13 +17,16 @@
 
 ## Example
 
+```
 Before:
-Hello   world
-This   is     a test
+Hello    world
+This    is    a test
 
 After:
 Hello world
 This is a test
+```
+
 
 
 ## Screenshot
